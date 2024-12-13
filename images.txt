@@ -1,2 +1,3 @@
 tangyoha/telegram_media_downloader:latest
 homebridge/homebridge:latest
+dreamacro/clash-premium:latest
