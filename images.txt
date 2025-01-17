@@ -3,6 +3,6 @@
 # dreamacro/clash-premium:latest
 # docker.n8n.io/n8nio/n8n:latest
 # fatedier/frpc:v0.61.1
-snowdreamtech/frp:latest
+snowdreamtech/frpc:latest
 
 
