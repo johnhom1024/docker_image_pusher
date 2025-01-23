@@ -5,6 +5,7 @@
 # fatedier/frpc:v0.61.1
 # snowdreamtech/frpc:latest
 # snowdreamtech/frps:latest
-soulteary/flare:latest
+# soulteary/flare:latest
+kestra/kestra:latest
 
 
