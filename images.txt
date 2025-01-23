@@ -6,6 +6,7 @@
 # snowdreamtech/frpc:latest
 # snowdreamtech/frps:latest
 # soulteary/flare:latest
-kestra/kestra:latest
+# kestra/kestra:latest
+postgres:latest
 
 
