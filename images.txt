@@ -8,5 +8,6 @@
 # soulteary/flare:latest
 # kestra/kestra:latest
 # postgres:latest
-ghcr.io/jarvis2f/telegram-files:latest
+# ghcr.io/jarvis2f/telegram-files:latest
 # homeassistant/home-assistant
+containrrr/watchtower
