@@ -10,4 +10,5 @@
 # postgres:latest
 # ghcr.io/jarvis2f/telegram-files:latest
 # homeassistant/home-assistant
-containrrr/watchtower
+# containrrr/watchtower
+getsentry/sentry-cli
