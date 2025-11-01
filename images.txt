@@ -1,7 +1,7 @@
-tangyoha/telegram_media_downloader:latest
+# tangyoha/telegram_media_downloader:latest
 # homebridge/homebridge:latest
 # dreamacro/clash-premium:latest
-n8nio/n8n:latest
+# n8nio/n8n:latest
 # fatedier/frpc:v0.61.1
 # snowdreamtech/frpc:latest
 # snowdreamtech/frps:latest
@@ -12,3 +12,4 @@ n8nio/n8n:latest
 # homeassistant/home-assistant
 # containrrr/watchtower
 # getsentry/sentry-cli
+tailscale/tailscale:latest
