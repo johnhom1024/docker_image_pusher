@@ -1,4 +1,4 @@
-# tangyoha/telegram_media_downloader:latest
+tangyoha/telegram_media_downloader:latest
 # homebridge/homebridge:latest
 # dreamacro/clash-premium:latest
 n8nio/n8n:latest
