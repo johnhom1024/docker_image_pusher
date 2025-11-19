@@ -13,4 +13,6 @@
 # containrrr/watchtower
 # getsentry/sentry-cli
 # tailscale/tailscale:latest
-mysql:8.0
+--platform=linux/arm64 mysql:8.0
+--platform=linux/arm64 swr.cn-east-3.myhuaweicloud.com/kuafuai/aipexbase-backend:20251114-01
+--platform=linux/arm64 swr.cn-east-3.myhuaweicloud.com/kuafuai/aipexbase-nginx:20251114-01
