@@ -12,4 +12,5 @@
 # homeassistant/home-assistant
 # containrrr/watchtower
 # getsentry/sentry-cli
-tailscale/tailscale:latest
+# tailscale/tailscale:latest
+mysql:8.0
