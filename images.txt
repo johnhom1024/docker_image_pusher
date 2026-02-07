@@ -8,8 +8,10 @@
 # soulteary/flare:latest
 # kestra/kestra:latest
 # postgres:latest
-ghcr.io/jarvis2f/telegram-files:latest
+# ghcr.io/jarvis2f/telegram-files:latest
 # homeassistant/home-assistant
 # containrrr/watchtower
 # getsentry/sentry-cli
-tailscale/tailscale:latest
+# tailscale/tailscale:latest
+metacubex/mihomo:latest
+ghcr.io/metacubex/metacubexd:latest
