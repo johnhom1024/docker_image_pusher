@@ -13,5 +13,6 @@
 # containrrr/watchtower
 # getsentry/sentry-cli
 # tailscale/tailscale:latest
-metacubex/mihomo:latest
-ghcr.io/metacubex/metacubexd:latest
+# metacubex/mihomo:latest
+# ghcr.io/metacubex/metacubexd:latest
+fnsys/dockhand:latest
